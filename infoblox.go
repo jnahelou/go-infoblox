@@ -14,7 +14,7 @@ import (
 )
 
 var (
-	WAPI_VERSION = "1.4.1"
+	WAPI_VERSION = "2.2"
 	BASE_PATH    = "/wapi/v" + WAPI_VERSION + "/"
 	DEBUG        = false
 )
